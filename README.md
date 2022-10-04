@@ -1,4 +1,12 @@
+<hr>
+<div align="center"><h1>? = > .</h1></div>
+<p align="center">안녕하세요. <b>"물음표를 마침표로"</b> <br>끝맺음을 맺는 개발을 하고싶은 한서현입니다 : ) </p>
+<div align="center">
+<a href ="https://github.com/HAN-SEOHYUN"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://feelfreetothink.tistory.com/111"><img src="https://img.shields.io/badge/tistory-fe7d37?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;<a href="https://www.instagram.com/hanseohyun_/"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAN-SEOHYUN&show_icons=true&theme=merko)</div>
 
+<br><br>
 <h2 align="center">Stack</h2>
 
 <div align="center"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
@@ -11,7 +19,3 @@
 </div>
 
 
-<h2>Me</h2>
-
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/tistory-fe7d37?style=for-the-badge&logo=tistory&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAN-SEOHYUN&show_icons=true&theme=merko)<br>
