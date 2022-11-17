@@ -1,5 +1,5 @@
 <hr>
-<div align="center"><h1>? = > .</h1></div>
+<div align="center"><h1>? -> .</h1></div>
 <p align="center">안녕하세요. <b>"물음표를 마침표로"</b> <br>끝맺음을 맺는 개발을 하고싶은 한서현입니다 : ) </p><br>
 <div align="center">
 <a href ="https://github.com/HAN-SEOHYUN"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://feelfreetothink.tistory.com/"><img src="https://img.shields.io/badge/tistory-fe7d37?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;<a href="https://www.instagram.com/hanseohyun_/"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
