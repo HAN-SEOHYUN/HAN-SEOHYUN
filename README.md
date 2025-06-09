@@ -1,4 +1,3 @@
-<p align="center">안녕하세요. <br>서비스의 완성도를 높이는 경험을 즐기는 개발자 한서현입니다. </p>
 <div align="center">
 <a href ="https://github.com/HAN-SEOHYUN"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://feelfreetothink.tistory.com/"><img src="https://img.shields.io/badge/tistory-fe7d37?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;<br>
 
